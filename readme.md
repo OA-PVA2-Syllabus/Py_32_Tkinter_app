@@ -34,7 +34,7 @@ Deklarujte nový program `mys.py`, který zobrazí zobrazí zprávu ve widgetu p
 a zobrazí předchozí barvu, pokud kliknete pravým tlačítkem myši.
 * Barva pozadí se taktéž bude měnit pomocí levé a pravé šipky.
 
-`window.config(bg=)`
+Nápověda: `window.config(bg=)`
 
 ### 5 Kámen, nůžky, papír
 Vytvořte jednoduchou hru kámen, nůžky, papír.
